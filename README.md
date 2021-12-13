@@ -1,6 +1,6 @@
  <h1>Hi I am İsmail <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;"></a></h1>
 
-<p>I am a computer engineering student. Since I am new to software, I am trying to improve myself in popular languages these days. I plan to reach near perfect levels in Javascript, Html, CSS ,SQL. In this development process, I'm trying to throw my projects, albeit small, into git hub. This is my Social Home 🤟🏻. <p/>
+<p>I am a computer engineering student. Since I am new to software, I am trying to improve myself in popular languages these days. I plan to reach near perfect levels in C#,Java,Javascript, Html, CSS ,SQL. In this development process, I'm trying to throw my projects, albeit small, into git hub. This is my Social Home 🤟🏻. <p/>
   
 <h3> Connect with me :</h3>
 
@@ -19,3 +19,6 @@
 <a href="https://github.com/ismaildedec" rel="nofollow">
   <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/25/25657.png" style="max-width:100%;">
 </a>
+<a href="https://https://medium.com/@ismaildedec" rel="nofollow">
+  <img alt="guilyx | medium" width="25px" src="https://camo.githubusercontent.com/f95323b8e7b738d619d718d3758e772cb99708471af5da0a8a36edb1645fda64/68747470733a2f2f696d6167652e666c617469636f6e2e636f6d2f69636f6e732f706e672f3531322f323131312f323131313534332e706e67" data-canonical-src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width: 100%;">
+</a
