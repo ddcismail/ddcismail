@@ -19,6 +19,6 @@
 <a href="https://github.com/ismaildedec" rel="nofollow">
   <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/25/25657.png" style="max-width:100%;">
 </a>
-<a href="https:/https://medium.com/@ismaildedec" rel="nofollow">
-<img alt="guilyx | medium" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width:100%;">
-</a
+<a href="https://ismaildedec.medium.com/" rel="nofollow">
+  <img alt="guilyx | medium" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width:100%;">
+  </a>
