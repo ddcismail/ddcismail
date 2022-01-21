@@ -22,4 +22,5 @@
 <a href="https://ismaildedec.medium.com/" rel="nofollow">
   <img alt="guilyx | medium" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width:100%;">
   </a>
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+  
+![snake gif](https://github.com/ismaildedec/ismaildedec/blob/output/github-contribution-grid-snake.gif)
