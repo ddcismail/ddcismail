@@ -23,6 +23,6 @@
   <img alt="guilyx | medium" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width:100%;">
   </a>
   <br>
-  <br>
+
   
-![snake gif](https://github.com/ismaildedec/ismaildedec/blob/output/github-contribution-grid-snake.gif)
+
