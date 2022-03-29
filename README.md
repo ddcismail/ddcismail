@@ -4,23 +4,23 @@
   
 <h3> Connect with me :</h3>
 
-<a href="https://mail.google.com/ismaildedec@gmail.com" rel="nofollow">
-  <img alt="guilyx | Twitter" width="25px" padding="15px" src="https://image.flaticon.com/icons/png/512/2965/2965306.png" style="max-width:100%;">
-</a>
+ <a href="mailto:ismaildedec@gmail.com" rel="nofollow">
+  <img alt="mail" width=27px" margin="5px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" style="max-width:100%;">
+  </a>
 <a href="https://www.instagram.com/ismailddc/?hl=tr" rel="nofollow">
-  <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/1409/1409946.png" style="max-width:100%;">
+  <img alt="instagram" width="27px" src="https://cdn-icons-png.flaticon.com/512/1384/1384063.png"  style="max-width:100%;">
 </a>
 <a href="https://www.linkedin.com/in/ismail-dedec-10a40b215/" rel="nofollow">
-  <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/1409/1409945.png" style="max-width:100%;">
+  <img alt="linkedin" width="27px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="max-width:100%;">
 </a>
 <a href="https://twitter.com/ismailddc" rel="nofollow">
-  <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/1409/1409937.png" style="max-width:100%;">
+ <img alt="Twitter" width="27px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="max-width:100%;">
 </a>
 <a href="https://github.com/ismaildedec" rel="nofollow">
-  <img alt="guilyx | Twitter" width="25px" src="https://image.flaticon.com/icons/png/512/25/25657.png" style="max-width:100%;">
+  <img alt="github" width="27px" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" style="max-width:100%;">
 </a>
 <a href="https://ismaildedec.medium.com/" rel="nofollow">
-  <img alt="guilyx | medium" width="25px" src="https://image.flaticon.com/icons/png/512/2111/2111543.png" style="max-width:100%;">
+  <img alt="medium" width="27px" src="https://cdn-icons-png.flaticon.com/512/5968/5968906.png" style="max-width:100%;">
   </a>
   <br>
 
