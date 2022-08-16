@@ -16,7 +16,7 @@
 <a href="https://twitter.com/ismailddc" rel="nofollow">
  <img alt="Twitter" width="27px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" style="max-width:100%;">
 </a>
-<a href="https://github.com/ismaildedec" rel="nofollow">
+<a href="https://github.com/ddcismail" rel="nofollow">
   <img alt="github" width="27px" src="https://cdn-icons-png.flaticon.com/512/5968/5968896.png" style="max-width:100%;">
 </a>
 <a href="https://ismaildedec.medium.com/" rel="nofollow">
